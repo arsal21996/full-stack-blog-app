@@ -1,0 +1,32 @@
+.demo-login {
+  max-width: 720px;
+  margin: 4rem auto;
+  padding: 2.5rem;
+  border: 1px solid rgba(68, 48, 35, 0.1);
+  border-radius: 28px;
+  background: rgba(255, 251, 244, 0.92);
+  box-shadow: 0 24px 70px rgba(68, 48, 35, 0.09);
+}
+
+.demo-login .eyebrow {
+  display: block;
+  margin-bottom: .5rem;
+  font-size: .75rem;
+  font-weight: 800;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+}
+
+.demo-login h2 { margin: 0; font-family: Georgia, serif; font-size: clamp(2rem, 5vw, 3.5rem); }
+.demo-login p { max-width: 560px; color: #75695f; line-height: 1.7; }
+.demo-account-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+.demo-account { display: flex; align-items: center; gap: .9rem; padding: 1rem; border: 1px solid rgba(68,48,35,.12); border-radius: 18px; background: white; text-align: left; cursor: pointer; transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease; }
+.demo-account:hover { transform: translateY(-2px); box-shadow: 0 12px 30px rgba(68,48,35,.08); }
+.demo-account.is-selected { border-color: #9b5d3b; box-shadow: 0 0 0 3px rgba(155,93,59,.12); }
+.demo-avatar { display: grid; width: 48px; height: 48px; place-items: center; border-radius: 50%; background: #f3e8dc; font-size: 1.5rem; }
+.demo-account strong, .demo-account small { display: block; }
+.demo-account small { margin-top: .25rem; color: #81756c; }
+.demo-login-button { width: 100%; padding: .95rem 1.2rem; border: 0; border-radius: 999px; background: #443023; color: white; font: inherit; font-weight: 800; cursor: pointer; transition: transform .2s ease; }
+.demo-login-button:hover { transform: translateY(-2px); }
+.demo-note { display: block; margin-top: 1rem; text-align: center; color: #8d8177; }
+@media (max-width: 620px) { .demo-login { margin: 2rem 1rem; padding: 1.5rem; } .demo-account-grid { grid-template-columns: 1fr; } }
