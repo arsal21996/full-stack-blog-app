@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "title": "Creamy Garlic Butter Pasta",
+    "category": "Dinner",
+    "description": "Silky pasta tossed in garlic butter, parmesan and herbs for the kind of dinner that feels homemade in every bite.",
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=1200&q=85",
+    "time": "25 min",
+    "difficulty": "Easy",
+    "servings": 3,
+    "author": "HomeCooked Kitchen",
+    "ingredients": ["250g spaghetti", "3 tbsp butter", "4 garlic cloves", "60g parmesan", "Parsley", "Salt and black pepper"],
+    "instructions": ["Cook pasta until just al dente and reserve a little pasta water.", "Sauté garlic gently in butter until fragrant.", "Add pasta, parmesan and a splash of pasta water. Toss until glossy.", "Finish with parsley, black pepper and extra parmesan."]
+  },
+  {
+    "id": "2",
+    "title": "Honey Lemon Roast Chicken",
+    "category": "Dinner",
+    "description": "Juicy roast chicken glazed with honey, lemon and herbs, with crisp golden skin and a bright finish.",
+    "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=85",
+    "time": "55 min",
+    "difficulty": "Medium",
+    "servings": 4,
+    "author": "Maya's Kitchen",
+    "ingredients": ["4 chicken thighs", "2 tbsp honey", "1 lemon", "2 garlic cloves", "1 tsp dried thyme", "Olive oil", "Salt and pepper"],
+    "instructions": ["Heat oven to 200°C and pat the chicken dry.", "Mix honey, lemon juice, garlic, thyme and olive oil.", "Coat chicken and roast until deeply golden and cooked through.", "Rest for 8 minutes before serving with lemon wedges."]
+  },
+  {
+    "id": "3",
+    "title": "Berry Breakfast Pancakes",
+    "category": "Breakfast",
+    "description": "Fluffy weekend pancakes layered with fresh berries, yogurt and a little maple syrup.",
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=1200&q=85",
+    "time": "20 min",
+    "difficulty": "Easy",
+    "servings": 2,
+    "author": "Nora",
+    "ingredients": ["1 cup flour", "1 tbsp sugar", "1 tsp baking powder", "1 egg", "3/4 cup milk", "Berries", "Greek yogurt", "Maple syrup"],
+    "instructions": ["Whisk flour, sugar and baking powder in a bowl.", "Add egg and milk, mixing only until combined.", "Cook small rounds on a lightly buttered pan until golden on both sides.", "Stack with yogurt and berries, then drizzle with maple syrup."]
+  },
+  {
+    "id": "4",
+    "title": "Chocolate Olive Oil Cake",
+    "category": "Dessert",
+    "description": "A deeply chocolatey, tender cake with olive oil and a soft crumb that gets better the next day.",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1200&q=85",
+    "time": "45 min",
+    "difficulty": "Medium",
+    "servings": 8,
+    "author": "HomeCooked Kitchen",
+    "ingredients": ["180g flour", "55g cocoa", "180g sugar", "2 eggs", "120ml olive oil", "150ml milk", "1 tsp baking powder", "Pinch of salt"],
+    "instructions": ["Heat oven to 175°C and line a cake tin.", "Whisk eggs, sugar, olive oil and milk until smooth.", "Fold in the dry ingredients without overmixing.", "Bake until the center is just set. Cool before slicing."]
+  },
+  {
+    "id": "5",
+    "title": "Creamy Tomato Soup",
+    "category": "Lunch",
+    "description": "A cozy bowl of roasted tomato soup finished with cream, basil and a warm grilled cheese on the side.",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=85",
+    "time": "35 min",
+    "difficulty": "Easy",
+    "servings": 4,
+    "author": "Sam's Table",
+    "ingredients": ["800g tomatoes", "1 onion", "4 garlic cloves", "500ml vegetable stock", "80ml cream", "Fresh basil", "Olive oil"],
+    "instructions": ["Roast tomatoes, onion and garlic until caramelized.", "Transfer to a pot with stock and simmer for 10 minutes.", "Blend until smooth and stir through cream.", "Season and serve with basil and crusty bread."]
+  },
+  {
+    "id": "6",
+    "title": "Crispy Smashed Potatoes",
+    "category": "Sides",
+    "description": "Golden, crunchy potatoes with fluffy centers, garlic oil and fresh herbs.",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=1200&q=85",
+    "time": "40 min",
+    "difficulty": "Easy",
+    "servings": 4,
+    "author": "The Sunday Table",
+    "ingredients": ["700g baby potatoes", "3 tbsp olive oil", "2 garlic cloves", "Rosemary", "Sea salt", "Black pepper"],
+    "instructions": ["Boil potatoes until fork tender, then drain well.", "Place on a tray and gently smash each potato.", "Brush with garlic oil and roast until crisp and golden.", "Finish with rosemary, sea salt and pepper."]
+  }
+]
