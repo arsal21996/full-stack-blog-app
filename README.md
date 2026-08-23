@@ -12,6 +12,18 @@ A warm, editorial full-stack recipe platform built as a portfolio-ready final pr
 - Express backend with lightweight JSON persistence
 - Mobile-first styling with subtle micro-interactions
 - Deployment-ready for Vercel/Netlify + Render
+- **Two pre-built demo roles** for demonstrating role-based UI access
+
+## Demo roles
+
+HomeCooked intentionally uses demo role selection instead of real authentication, keeping the final project easy to run and understand.
+
+| Demo account | Role | Access |
+|---|---|---|
+| Chef Ava | `admin` | Create, edit, delete, manage categories |
+| Sam HomeCook | `contributor` | Create and edit own recipes |
+
+There are no passwords or secure login sessions. These accounts demonstrate role-aware frontend behavior only and should not be described as production authentication.
 
 ## Structure
 
